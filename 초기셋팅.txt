@@ -1,0 +1,7 @@
+1. npm init
+2. npm install parcel index
+3. package.json 열기  -> script 부분수정해주기
+4. "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  }
